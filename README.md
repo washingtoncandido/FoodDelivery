@@ -32,9 +32,15 @@
 
 ## Image do app:
 
-Tela introdução 
+#Tela Introdução 
+![2021-12-30 22_51_37-ProjectFood – activity_cart xml  ProjectFood app  Android Studio](https://user-images.githubusercontent.com/69988521/147798470-61154f9d-cdae-4172-8f0a-554c1f7c6d3a.png)![Uploading WhatsApp Image 2021-12-30 at 22.53.47 (1).jpeg…]()
 
 
-![2021-12-30 22_51_37-ProjectFood – activity_cart xml  ProjectFood app  Android Studio](https://user-images.githubusercontent.com/69988521/147798445-9a808d88-02a9-400d-b83b-c18138506b1e.png)
+#Tela Home
+![HomeActivity](https://user-images.githubusercontent.com/69988521/147798579-41c381b6-a94c-4bd0-bc68-5e75f3712b7d.jpeg)
 
+#Tela Detalhes do produto 
+![DetailActivity](https://user-images.githubusercontent.com/69988521/147798588-60ced8f2-0daf-4b40-9c29-1bde4ac6b263.jpeg)
+
+#Cart
 
