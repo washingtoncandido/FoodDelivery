@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectFood</string>
+    <string name="label_btn_home">Get Started</string>
+    <string name="food_delivery_app">Food Delivery App</string>
+    <string name="foodator">Foodator</string>
+    <string name="ol_washington">Olá Washington</string>
+    <string name="PriceBr">$</string>
+</resources>
