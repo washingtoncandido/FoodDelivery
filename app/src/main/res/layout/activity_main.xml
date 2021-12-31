@@ -245,7 +245,7 @@
                         android:src="@drawable/ic_home_btn1" />
 
                     <TextView
-                        android:id="@+id/textView4"
+                        android:id="@+id/sub_title"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Home"

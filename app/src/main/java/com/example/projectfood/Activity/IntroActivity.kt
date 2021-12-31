@@ -14,7 +14,7 @@ class IntroActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_intro)
 
-        startBtn = findViewById(R.id.layout_btn)
+        startBtn = findViewById(R.id.btn_introducao)
         startBtn.setOnClickListener {
             startActivity(Intent(this,MainActivity::class.java))
         }
